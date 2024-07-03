@@ -1,8 +1,8 @@
-# React + Vite
+# Redux Toolkit & Async Thunk
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here are showing uses of redux toolkit and async thunk,localstorage in this project.
 
-Currently, two official plugins are available:
+Source codes and live server link:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Live link: https://redux-toolkit-4jd.pages.dev/
+- Github link: https://github.com/omarsafayet05/Redux-Toolkit.git
